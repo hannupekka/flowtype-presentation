@@ -1,0 +1,65 @@
+@import url(https://rawgit.com/hakimel/reveal.js/master/css/theme/black.css);
+
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #ccc;
+  text-transform: none;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6,
+.reveal blockquote {
+  text-align: center;
+  width: 100%;
+}
+
+.reveal h1 {
+  font-size: 2em;
+}
+
+.reveal h2 {
+  font-size: 1.6em;
+}
+
+.reveal h3 {
+  font-size: 1.3em;
+}
+
+.reveal h4 {
+  font-size: 1em;
+  font-weight: normal;
+  text-align: left;
+}
+
+.reveal code {
+  font-family: "Fira Code";
+}
+
+.reveal pre {
+  width: 100%;
+  margin: auto 0;
+}
+
+.reveal pre code {
+  padding: 1rem;
+  margin-bottom: 3rem;
+  overflow: visible;
+  max-height: inherit;
+}
+
+.reveal section img {
+  border-color: transparent;
+}
+
+.reveal ul {
+  width: 100%;
+}
